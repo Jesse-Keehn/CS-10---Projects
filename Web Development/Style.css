@@ -1,0 +1,90 @@
+html {
+    background: url("images/backgroundimagewebdev.jpg") fixed
+}
+
+p {
+
+    color: black;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+div {
+   
+    border-radius: 25px;
+    box-shadow: 2px 2.5px;
+
+    background-color: white;
+}
+
+h1 {
+
+    font-size: 20px;
+    color: chocolate;
+    font-variant: small-caps;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+h2 {
+
+    font-size: 20px;
+    color: cornflowerblue;
+    font-variant: small-caps;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+h3 {
+
+   font-size: 20px;
+    color: gold;
+    font-variant: small-caps;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+body {
+    width: 600px;
+    margin: auto;
+
+}
+
+.js{
+
+    border: 5px solid gold;
+    margin: 40px auto;
+    padding: 15px 50px;
+}
+
+.html {
+
+   border: 5px solid chocolate;
+    margin: 40px auto;
+    padding: 15px 50px;
+}
+
+.css {
+
+    border: 5px solid cornflowerblue;
+    margin: 40px auto;
+    padding: 15px 50px;
+
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;   
+}
